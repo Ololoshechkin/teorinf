@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/untitled2.iml" filepath="$PROJECT_DIR$/.idea/modules/untitled2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/encoder.iml" filepath="$PROJECT_DIR$/.idea/modules/encoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/encoder.main.iml" filepath="$PROJECT_DIR$/.idea/modules/encoder.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/encoder.test.iml" filepath="$PROJECT_DIR$/.idea/modules/encoder.test.iml" />
     </modules>
   </component>
 </project>
